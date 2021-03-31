@@ -12,7 +12,7 @@ Smarthost
 4. Configurate host/IP at mobile client
 5. Suitable for tester and developers
 
-
+fiddler插件smarthost
 ### Note ###
 * moved from [googlecode Smarthost](http://code.google.com/p/smarthost)
 * author mooringniu[AT]gmail.com
